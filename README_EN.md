@@ -9,6 +9,9 @@
 Documentation: English version | [中文版](https://github.com/luolongfei/freenom)
 </div>
 
+## Blog
+  地址：https://www.qian.blue
+
 [📃  Why write this script](#--Why-write-this-script)
 
 [🍭  Demo](#--Demo)
